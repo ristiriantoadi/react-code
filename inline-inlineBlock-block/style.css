@@ -1,0 +1,36 @@
+ul {
+  color: blue;
+}
+
+li {
+  display: inline;
+  width: 200px;
+  height: 200px;
+}
+
+.pull-left {
+  float: left;
+  width: 50%;
+  background: red;
+  /* height: 200px; */
+}
+
+.pull-right {
+  width: 50%;
+  background: blue;
+  float: left;
+}
+
+.first-div {
+  width: 50%;
+}
+.another-div {
+  background: blue;
+  display: inline-block;
+  width: 50%;
+}
+.green-div {
+  background: green;
+  display: block;
+  width: 50%;
+}

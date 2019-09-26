@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  height: 100px;
+  background-color: #b2d6ff; /* Medium blue */
+}
+
+.sidebar {
+  float: right;
+  height: 300px;
+  width: 300px;
+  background-color: #f09a9d; /* Red */
+}
+
+.content {
+  float: left;
+  width: 500px;
+  height: 100px;
+  background-color: #f5cf8e; /* Yellow */
+}
+
+.footer {
+  height: 200px;
+  background-color: #d6e9fe; /* Light blue */
+}

@@ -1,0 +1,9 @@
+div {
+  background: blue;
+}
+
+p {
+  width: 60%;
+  display: inline;
+  margin: auto;
+}
